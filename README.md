@@ -1,2 +1,22 @@
-# awesome-cocoa-weekly
-A curated list of awesome cocoa weekly
+# Awesome cocoa weekly
+
+some weekly for cocoa development
+
+## iOS
+
+- [iOS Dev Weekly](https://iosdevweekly.com)
+- [iOS GameDev Weekly](http://iosgamedevweekly.com)
+- [iOS Goodies](http://ios-goodies.com)
+
+## OSX
+
+[Mac Dev Weekly](http://macdevweekly.com)
+
+## Swift
+
+[Swift Weekly](http://swiftweekly.com)
+[Swift Dev Weekly](http://swiftdevweekly.com)
+[Swift Developer Weekly](http://swiftdevweekly.co)
+
+
+
