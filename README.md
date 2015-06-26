@@ -19,4 +19,6 @@ some weekly for cocoa development
 - [Swift Developer Weekly](http://swiftdevweekly.co)
 
 
+## Other
 
+- [CDW Cocoa Dev Weekly](http://cocoadevweekly.com)
