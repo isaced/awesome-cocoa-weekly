@@ -10,13 +10,13 @@ some weekly for cocoa development
 
 ## OSX
 
-[Mac Dev Weekly](http://macdevweekly.com)
+- [Mac Dev Weekly](http://macdevweekly.com)
 
 ## Swift
 
-[Swift Weekly](http://swiftweekly.com)
-[Swift Dev Weekly](http://swiftdevweekly.com)
-[Swift Developer Weekly](http://swiftdevweekly.co)
+- [Swift Weekly](http://swiftweekly.com)
+- [Swift Dev Weekly](http://swiftdevweekly.com)
+- [Swift Developer Weekly](http://swiftdevweekly.co)
 
 
 
