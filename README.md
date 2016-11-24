@@ -1,6 +1,6 @@
 # Awesome cocoa weekly
 
-some weekly for cocoa development
+some weekly for cocoa development, more and more...
 
 ## iOS
 
