@@ -18,6 +18,7 @@ some weekly for cocoa development
 - [Swift Dev Weekly](http://swiftdevweekly.com)
 - [Swift Developer Weekly](http://swiftdevweekly.co)
 - [Swift Sandbox](http://swiftsandbox.io)
+- [Swift Weekly Brief](https://swiftweekly.github.io/)
 
 ## Other
 
