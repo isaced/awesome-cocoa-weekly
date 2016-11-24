@@ -25,3 +25,11 @@ some weekly for cocoa development, more and more...
 ## Other
 
 - [CDW Cocoa Dev Weekly](http://cocoadevweekly.com)
+
+
+---
+
+## Chinese
+
+- [百度Hi团队 iOS 技术周报](https://github.com/BaiduHiDeviOS/iOS-Tech-Weekly)
+- [InfoQ 移动开发技术周报](http://www.infoq.com/cn/mobile-weekly)
