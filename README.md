@@ -9,9 +9,10 @@ some weekly for cocoa development, more and more...
 - [iOS Goodies](http://ios-goodies.com)
 - [Indie iOS Focus Weekly](https://indieiosfocus.curated.co/)
 
-## OSX
+## Mac
 
-- [Mac Dev Weekly](http://macdevweekly.com)
+- [Mac developer tips](http://macdevelopertips.com/)
+- ~~[Mac Dev Weekly](http://macdevweekly.com/)~~ *(deprecated)*
 
 ## Swift
 
