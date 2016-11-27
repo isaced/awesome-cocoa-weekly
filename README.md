@@ -12,7 +12,6 @@ some weekly for cocoa development, more and more... 🚀
 ## Mac
 
 - [Mac developer tips](http://macdevelopertips.com/)
-- ~~[Mac Dev Weekly](http://macdevweekly.com/)~~ *(deprecated)*
 
 ## Swift
 
