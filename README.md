@@ -11,7 +11,7 @@ some weekly for cocoa development, more and more... 🚀
 
 ## Mac
 
-- [Mac developer tips](http://macdevelopertips.com/)
+- ~~[Mac developer tips](http://macdevelopertips.com/)~~
 
 ## Swift
 
