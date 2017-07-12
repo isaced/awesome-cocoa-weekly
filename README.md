@@ -8,6 +8,7 @@ some weekly for cocoa development, more and more... 🚀
 - [iOS GameDev Weekly](http://iosgamedevweekly.com)
 - [iOS Goodies](http://ios-goodies.com)
 - [Indie iOS Focus Weekly](https://indieiosfocus.curated.co/)
+- [WeeklyCocoa.News](https://weeklycocoa.news)
 
 ## Mac
 
