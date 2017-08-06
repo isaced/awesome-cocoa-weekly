@@ -20,6 +20,7 @@ some weekly for cocoa development, more and more... 🚀
 - [Swift Dev Weekly](http://swiftdevweekly.com)
 - [Swift Weekly Brief](https://swiftweekly.github.io/)
 - [This Week in Swift](https://swiftnews.curated.co/)
+- [Swift Web Weekly](http://swiftwebweekly.com/)
 - ~~[Swift Developer Weekly](http://swiftdevweekly.co)~~
 
 ## Other
